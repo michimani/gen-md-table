@@ -9,5 +9,9 @@ A Google Spreadsheet add-on that converts selected tables to Markdown table form
 
 3. Select this addon from the addons menu and select `Convert selected range to Markdown Table`.
 
-![Videotogif (1)](https://user-images.githubusercontent.com/9986092/106005279-69042500-60f7-11eb-8624-3c30a8f4397c.gif)
+![Videotogif (2)](https://user-images.githubusercontent.com/9986092/106071267-60d4d580-6149-11eb-9117-64cdd68ba423.gif)
 
+
+### Support multi selections
+
+![Videotogif (3)](https://user-images.githubusercontent.com/9986092/106071402-9aa5dc00-6149-11eb-9fe0-836990977a30.gif)
