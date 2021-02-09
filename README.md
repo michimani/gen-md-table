@@ -3,7 +3,9 @@ A Google Spreadsheet add-on that converts selected tables to Markdown table form
 
 ## Usage
 
-1. Please create your own GAS file with Spreadsheet Script Editor by referring to `main.gs` in this repository.
+1. Install this add-on from Google Workspace Marketplace.
+
+    [GenerateMarkdownTable - Google Workspace Marketplace](https://workspace.google.com/marketplace/app/generatemarkdowntable/23306117760)
 
 2. Select the range for which you want to get the Markdown format table notation.
 

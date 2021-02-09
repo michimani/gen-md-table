@@ -29,13 +29,13 @@ function convetSeletedRangeToMarkdown() {
 
       row = '|';
       vl.forEach((v, ii) => {
-        let val = String(v).replace("\n", '<br>');
+        let val = String(v).replace(/\n/g, '<br>');
         row += ` ${val} |`;
       });
       md += `${row}\n`;
     });
   })
-  
+
   showDialog('Markdown Table', md);
 }
 
