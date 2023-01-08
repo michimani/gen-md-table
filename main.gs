@@ -17,7 +17,7 @@ function convetSeletedRangeToMarkdown() {
     if (i > 0) {
       md += "\n\n";
     }
-    const valuesList = range.getValues();
+    const valuesList = range.getDisplayValues();
     valuesList.forEach((vl, i) => {
       let row = '|';
       if (i === 1) {
